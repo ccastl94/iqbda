@@ -1,3 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>IQBDA</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="base.css" media="screen" />
+  </head>
+  <body>
+    <div id="page-wrapper">
+      <div id="header">
+        <img width="102" height="60" src="Skittles.gif" alt="">
+            <h1><b><em>IQBDA</em></b></h1>
+          <h2><em>The International QBASIC Developers Association</em></h2>
+      </div>
+      <div id="navbar">
+        <ul>
+          <li>
+            <a href="index.html">Home</a>
+          </li>
+          <li>
+            <a href="iqbdc.html">IQBDC</a>
+          </li>
+        </ul>
+      </div>
+      <hr>
+      <div id="content">
 IQBDC '98
 May 5, 1998
 San Diego, CA
@@ -16,3 +42,7 @@ Time    Place   Event
 1:30 - 2:00pm   Triasic Room    Ada Byron on "Making the switch back to DOS"
 2:00 - 2:30pm   Triasic Room    C. Syntax on "OS/2 as a Multi-Tasking QBASIC Platform"
 2:30 - 3:00pm   Triasic Room    Eunice Unix on "Where do we go from here?"
+
+</div>
+</body>
+</html>
